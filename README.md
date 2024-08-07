@@ -2,7 +2,7 @@
 
   <h1><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=435&lines=Hello%2C+I'm+lokxo!+%F0%9F%91%A8%E2%80%8D%F0%9F%92%BB;Welcome+to+my+profile!" alt="Typing SVG" /></h1>
 
-  <h3>Full-Stack Developer | Open Source Enthusiast | Tech Explorer</h3>
+  <h3>Full-Stack Developer</h3>
 
   <p>
     <img src="https://komarev.com/ghpvc/?username=user106&label=Profile%20views&color=0e75b6&style=flat" alt="user106" />
@@ -24,12 +24,10 @@
 
   <h2>🧑‍💻 About Me</h2>
 
-  - 🚀 Full-stack developer with a passion for creating efficient, scalable solutions
-  - 🔭 Currently working on [diva.ink](https://diva.ink)
-  - 🌱 Expanding my skills in **C#** and diving deeper into **Cloud Architecture**
-  - 💡 Love to innovate and solve complex problems
-  - 🌐 Constantly exploring new technologies and best practices
-  - 📫 Reach me at: **root@s1d0w.site**
+  - Coding for fun
+  - Currently working on [diva.ink](https://diva.ink)
+  - Expanding my skills in **C#** and diving deeper into **Cloud Architecture**
+  - Reach me at: **root@s1d0w.site**
 
   <h2>🛠️ Tech Stack</h2>
 
