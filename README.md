@@ -87,9 +87,8 @@
 
 </div>
 
- 
-    <!-- Add more project cards as needed -->
-  </p>
+
+  
 
   <h2>🚀 Recent Contributions</h2>
 
