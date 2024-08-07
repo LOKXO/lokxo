@@ -24,10 +24,10 @@
 
   <h2>🧑‍💻 About Me</h2>
 
-  - Coding for fun
-  - Currently working on [diva.ink](https://diva.ink)
-  - Expanding my skills in **C#** and diving deeper into **Cloud Architecture**
-  - Reach me at: **root@s1d0w.site**
+  - ✮ Coding for fun
+  - ★ Currently working on [diva.ink](https://diva.ink)
+  - ✮⋆˙ Expanding my skills in **C#** and diving deeper into **Cloud Architecture**
+  - ˚₊‧꒰ა Reach me at: **root@s1d0w.site**  ໒꒱ ‧₊˚
 
   <h2>🛠️ Tech Stack</h2>
 
@@ -74,7 +74,7 @@
   <div style="width: 45%; min-width: 300px; margin-bottom: 20px;">
     <h3>🏠 iLikeRooms</h3>
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=user106&repo=ilikerooms&theme=github_dark" alt="ilikerooms" />
-    <p>iLikeRooms is a BLAZINGLY FAST room-related minigame written in Go. It leverages Go's concurrency features to provide a smooth and responsive gaming experience, demonstrating the power of Go for game development.</p>
+    <p>iLikeRooms is a BLAZINGLY FAST room-related minigame written in ᯓ★ Go. It leverages Go's concurrency features to provide a smooth and responsive gaming experience, demonstrating the power of Go for game development.</p>
     <p><strong>Tech Stack:</strong> Go, possibly with a game framework like Ebiten</p>
   </div>
 
