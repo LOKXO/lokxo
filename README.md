@@ -5,12 +5,12 @@
   <h3>Full-Stack Developer</h3>
 
   <p>
-    <img src="https://komarev.com/ghpvc/?username=user106&label=Profile%20views&color=0e75b6&style=flat" alt="user106" />
+    <img src="https://komarev.com/ghpvc/?username=LOKXO&label=Profile%20views&color=0e75b6&style=flat" alt="LOKXO" />
   </p>
 
   <p>
     <a href="https://github.com/ryo-ma/github-profile-trophy">
-      <img src="https://github-profile-trophy.vercel.app/?username=user106&theme=darkhub&column=7&margin-w=15&margin-h=15" alt="user106" />
+      <img src="https://github-profile-trophy.vercel.app/?username=LOKXO&theme=darkhub&column=7&margin-w=15&margin-h=15" alt="LOKXO" />
     </a>
   </p>
 
@@ -49,15 +49,15 @@
   <h2>📊 GitHub Stats</h2>
 
   <p align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=user106&show_icons=true&theme=github_dark" alt="GitHub Stats" />
+    <img src="https://github-readme-stats.vercel.app/api?username=LOKXO&show_icons=true&theme=github_dark" alt="GitHub Stats" />
   </p>
 
   <p align="center">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=user106&theme=github-dark-blue" alt="GitHub Streak" />
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=LOKXO&theme=github-dark-blue" alt="GitHub Streak" />
   </p>
 
   <p align="center">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=user106&layout=compact&theme=github_dark" alt="Top Languages" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LOKXO&layout=compact&theme=github_dark" alt="Top Languages" />
   </p>
 
  <h2>🚀 My Projects</h2>
@@ -66,39 +66,42 @@
 
   <div style="width: 45%; min-width: 300px; margin-bottom: 20px;">
     <h3>🖥️ Underfetch</h3>
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=LOKXO&repo=underfetch&theme=github_dark" alt="underfetch" />
+    <a href="https://github.com/LOKXO/underfetch">
+      <img src="https://github-readme-stats.vercel.app/api/pin/?username=LOKXO&repo=underfetch&theme=github_dark" alt="underfetch" />
+    </a>
     <p>Underfetch is a humorous take on system information tools, implemented in C#. It's designed to be a parody of more serious system information utilities.</p>
     <p><strong>Tech Stack:</strong> C#</p>
   </div>
 
   <div style="width: 45%; min-width: 300px; margin-bottom: 20px;">
     <h3>🏠 iLikeRooms</h3>
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=LOKXO&repo=ilikerooms-minigame&theme=github_dark" alt="ilikerooms" />
+    <a href="https://github.com/LOKXO/ilikerooms-minigame">
+      <img src="https://github-readme-stats.vercel.app/api/pin/?username=LOKXO&repo=ilikerooms-minigame&theme=github_dark" alt="ilikerooms" />
+    </a>
     <p>iLikeRooms is a BLAZINGLY FAST room-related minigame written in Go. The project description humorously states "idk rly", adding a touch of mystery to its functionality.</p>
     <p><strong>Tech Stack:</strong> Go</p>
   </div>
 
   <div style="width: 45%; min-width: 300px; margin-bottom: 20px;">
     <h3>🌌 Stellar Reality</h3>
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=LOKXO&repo=stellar-reality&theme=github_dark" alt="stellar-reality" />
+    <a href="https://github.com/LOKXO/stellar-reality">
+      <img src="https://github-readme-stats.vercel.app/api/pin/?username=LOKXO&repo=stellar-reality&theme=github_dark" alt="stellar-reality" />
+    </a>
     <p>Stellar Reality is an EVEN MORE BLAZINGLY FAST game written in Rust. The project includes setup scripts for both Linux/Mac and Windows environments.</p>
     <p><strong>Tech Stack:</strong> Rust, with Shell and Batch scripts for setup</p>
   </div>
 
 </div>
 
-
-  
-
   <h2>🚀 Recent Contributions</h2>
 
-  <!-- Add a dynamic list of your recent GitHub contributions here -->
   <!-- You can use a GitHub Action to automatically update this section -->
+  <p>This section can be dynamically updated with your recent GitHub contributions.</p>
 
   <h2>📘 Latest Blog Posts</h2>
 
-  <!-- Add a list of your latest blog posts or articles here -->
   <!-- You can use a service like dev.to or Medium and integrate their RSS feeds -->
+  <p>This section can be populated with your latest blog posts or articles.</p>
 
   <h2>🤝 Connect with Me</h2>
 
