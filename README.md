@@ -66,23 +66,23 @@
 
   <div style="width: 45%; min-width: 300px; margin-bottom: 20px;">
     <h3>🖥️ Underfetch</h3>
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=user106&repo=underfetch&theme=github_dark" alt="underfetch" />
-    <p>Underfetch is a humorous take on the popular system information tool, Neofetch. It's designed to be intentionally worse, providing a light-hearted and entertaining alternative for displaying system information.</p>
-    <p><strong>Tech Stack:</strong> Bash/Shell scripting</p>
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=LOKXO&repo=underfetch&theme=github_dark" alt="underfetch" />
+    <p>Underfetch is a humorous take on system information tools, implemented in C#. It's designed to be a parody of more serious system information utilities.</p>
+    <p><strong>Tech Stack:</strong> C#</p>
   </div>
 
   <div style="width: 45%; min-width: 300px; margin-bottom: 20px;">
     <h3>🏠 iLikeRooms</h3>
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=user106&repo=ilikerooms&theme=github_dark" alt="ilikerooms" />
-    <p>iLikeRooms is a BLAZINGLY FAST room-related minigame written in ᯓ★ Go. It leverages Go's concurrency features to provide a smooth and responsive gaming experience, demonstrating the power of Go for game development.</p>
-    <p><strong>Tech Stack:</strong> Go, possibly with a game framework like Ebiten</p>
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=LOKXO&repo=ilikerooms-minigame&theme=github_dark" alt="ilikerooms" />
+    <p>iLikeRooms is a BLAZINGLY FAST room-related minigame written in Go. The project description humorously states "idk rly", adding a touch of mystery to its functionality.</p>
+    <p><strong>Tech Stack:</strong> Go</p>
   </div>
 
   <div style="width: 45%; min-width: 300px; margin-bottom: 20px;">
     <h3>🌌 Stellar Reality</h3>
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=user106&repo=stellar-reality&theme=github_dark" alt="stellar-reality" />
-    <p>Stellar Reality is an EVEN MORE BLAZINGLY FAST game written in Rust. It showcases Rust's performance capabilities and safety features, providing an immersive gaming experience with minimal resource usage.</p>
-    <p><strong>Tech Stack:</strong> Rust, possibly with game engines like Bevy or Amethyst</p>
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=LOKXO&repo=stellar-reality&theme=github_dark" alt="stellar-reality" />
+    <p>Stellar Reality is an EVEN MORE BLAZINGLY FAST game written in Rust. The project includes setup scripts for both Linux/Mac and Windows environments.</p>
+    <p><strong>Tech Stack:</strong> Rust, with Shell and Batch scripts for setup</p>
   </div>
 
 </div>
