@@ -25,7 +25,7 @@
   <h2>🧑‍💻 About Me</h2>
 
   - ✮ Coding for fun
-  - ★ Currently working on [diva.ink](https://diva.ink)
+  - ★ Currently working on [rapeso.fun](https://rapeso.fun)
   - ✮⋆˙ Expanding my skills in **C#** and diving deeper into **Cloud Architecture**
   - ˚₊‧꒰ა Reach me at: **root@s1d0w.site**  ໒꒱ ‧₊˚
 
