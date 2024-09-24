@@ -96,13 +96,8 @@
   <h2>🚀 Recent Contributions</h2>
 
   <!-- You can use a GitHub Action to automatically update this section -->
-  <p>This section can be dynamically updated with your recent GitHub contributions.</p>
-
-  <h2>📘 Latest Blog Posts</h2>
-
-  <!-- You can use a service like dev.to or Medium and integrate their RSS feeds -->
-  <p>This section can be populated with your latest blog posts or articles.</p>
-
+  <p>WAIT PLZ</p>
+  
   <h2>🤝 Connect with Me</h2>
 
   <p>
