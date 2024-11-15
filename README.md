@@ -25,8 +25,8 @@
   <h2>🧑‍💻 About Me</h2>
 
   - ✮ Coding for fun
-  - ★ Currently working on [rapeso.fun](https://rapeso.fun)
-  - ✮⋆˙ Expanding my skills in **C#** and diving deeper into **Cloud Architecture**
+  - ★ Currently working on [diva](https://diva.ink)
+  - ✮⋆˙ Expanding my skills in **C++** and diving deeper into **Cloud Architecture**
   - ˚₊‧꒰ა Reach me at: **root@s1d0w.site**  ໒꒱ ‧₊˚
 
   <h2>🛠️ Tech Stack</h2>
